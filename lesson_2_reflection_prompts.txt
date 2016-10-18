@@ -4,8 +4,15 @@ What happens when you initialize a repository? Why do you need to do it?
 	inside of directories repostitory are tracted and monitored for changes. That is one of
 	the reasons why a git's repository is initialised. Beyond that git snapshots all the changes 
 	inside the repository.
+	
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+	The staging are is a part of the functionality where the working directory is only a part
+	of a computer's files system which contains the git repository and the staging area. Staging are 
+	contains only a subset of files of the directory that a included in the current commit. The repository
+	keeps all versions of files have been commited so far regardless whether they are included in the current commit
+	or not.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
