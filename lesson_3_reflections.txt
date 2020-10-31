@@ -1,2 +1,0 @@
-When would you want to create a remote resitory rather than keeping all your work local?
-Createing a remote repository is very useful when sharing work among a team so the results are synchronised and available for all the pariticipants. Keeping all work local would make such an option impossible.
